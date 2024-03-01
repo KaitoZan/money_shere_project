@@ -1,16 +1,11 @@
 # money_shere_project
 
-A new Flutter project.
+Create by Sirichok Boonpheak
 
-## Getting Started
+## Sceen UI
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/KaitoZan/money_shere_project/assets/144052345/c156d25c-43ea-4065-8d29-34ab6f36009d" width="150px">
+<img src="https://github.com/KaitoZan/money_shere_project/assets/144052345/8e8c0a61-6948-41a5-b4b6-4940dcba3602" width="150px">
+<img src="https://github.com/KaitoZan/money_shere_project/assets/144052345/a8c4edce-32f0-4cc0-929f-1f5c68083dc7" width="150px">
+<img src="https://github.com/KaitoZan/money_shere_project/assets/144052345/8d5438e6-4979-4695-abef-d65890860e1a" width="150px">
